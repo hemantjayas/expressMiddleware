@@ -1,0 +1,23 @@
+{
+  "name": "expressMiddleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantjayas/expressMiddleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantjayas/expressMiddleware/issues"
+  },
+  "homepage": "https://github.com/hemantjayas/expressMiddleware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
